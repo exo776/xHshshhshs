@@ -1,4 +1,3 @@
-yaml
 workflows:
   android-workflow:
     name: Android APK Build
